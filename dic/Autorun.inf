@@ -1,0 +1,4 @@
+[autorun]
+ICON = Drive_Manager.exe, 1
+OPEN = Drive_Manager.exe
+ACTION = "Run Drive Manager"
